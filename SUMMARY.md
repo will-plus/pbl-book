@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [开始](README.md)
+* [经验值、等级、悦币](points/base.md)
